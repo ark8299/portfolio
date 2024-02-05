@@ -6,10 +6,7 @@ import myImg from "../../Assets/studenthome.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
   AiFillMail,
-  AiFillAmazonCircle,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
